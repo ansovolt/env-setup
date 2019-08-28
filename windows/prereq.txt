@@ -1,0 +1,6 @@
+- Install Powershell
+- Install Choco
+- choco install git
+- git clone https://github.com/ansovolt/env-setup.git
+- cd env-setup
+- .\install.ps1
