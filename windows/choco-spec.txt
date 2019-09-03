@@ -1,63 +1,63 @@
 ####################
 # utils
 ####################
-7zip
-curl
-git
-putty
-virtualbox
-docker-for-windows
-minikube
-kubernetes-cli
-flashplayerplugin
-windirstat
+#curl
+#git
+#putty
+#virtualbox
+#docker-for-windows
+#minikube
+#kubernetes-cli
+#flashplayerplugin
+#windirstat
 
 ####################
 # editors
 ####################
-notepadplusplus
-vscode
+#notepadplusplus
+#vscode
 
 
 ####################
 # python
 ####################
-python3
-pip3
-anaconda
+#python
+#python3
+#pip
+#anaconda
 
 ####################
 # jvm
 ####################
-jdk8
-gradle
-groovy
-maven
+#jdk8
+#gradle
+#groovy
 #scala
 #sbt
-#jruby -version=
-soapui
+#jruby
+#jruby -version=9.1.13.0
+#soapui
 
 
 ####################
 # nodejs
 ####################
-nodejs
-npm
-yarn
+#nodejs
+#npm
+#yarn
 
 ####################
 # c
 ####################
-golang
+#golang
 
 
 ####################
 # build
 ####################
-vcbuildtools
-jenkins
-maven
+#vcbuildtools
+#jenkins
+#maven
 
 
 
@@ -65,24 +65,24 @@ maven
 # db
 ####################
 dbeaver
-sql-server-management-studio
-sql-server-express
+#sql-server-management-studio
+#sql-server-express
 
 ####################
 # cloud
 ####################
-awscli
-splunk
+#awscli
+#splunk
 
 
 #####################
 # desktop apps
 #####################
-intellijidea-community
-pycharm-community
-rubymine
-googlechrome
-firefox
+#intellijidea-community
+#pycharm-community
+#rubymine
+#googlechrome
+#firefox
 
 
 
