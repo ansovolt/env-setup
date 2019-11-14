@@ -1,6 +1,8 @@
 ### env-setup
-Repository for setting up a new development environment. It supports two platformsL windows and macOS.
-Inspired by this original project: https://github.com/CoreyMSchafer/dotfiles
+Repository for setting up a new development environment. It supports two platforms: windows and mac.
 
-### instructions
+Based on the following projects:
+https://github.com/CoreyMSchafer/dotfiles
+https://gist.github.com/codeinthehole/26b37efa67041e1307db
+
 
